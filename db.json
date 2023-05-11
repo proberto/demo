@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Hello Word"},
-    { "id": 2, "title": "TECH TUDO"},
-    { "id": 3, "title": "ERA UMA VEZ UM FRAMEWORK"}
+    { "id": 1, "title": "Hello Word", "description": "Começando com o hello word"},
+    { "id": 2, "title": "TECH TUDO", "description": "Novas noticias sobre tecnologia"},
+    { "id": 3, "title": "ERA UMA VEZ UM FRAMEWORK", "description": "Melhor Framework Yii 1.1.22"}
   ],
   "comments": [
     { "id": 1, "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", "postId": 1 },
